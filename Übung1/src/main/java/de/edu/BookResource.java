@@ -1,4 +1,4 @@
-package de.hsmuc.resources;
+package de.edu;
 
 import java.util.Collection;
 import java.util.Optional;
@@ -15,8 +15,6 @@ import javax.ws.rs.core.Response.Status;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 
-import de.hsmuc.presistence.BookShelf;
-import de.hsmuc.resources.domain.Book;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiResponse;

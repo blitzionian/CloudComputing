@@ -1,4 +1,4 @@
-package de.hsmuc.resources;
+package de.edu;
 
 import org.glassfish.jersey.jackson.JacksonFeature;
 import org.glassfish.jersey.server.ResourceConfig;

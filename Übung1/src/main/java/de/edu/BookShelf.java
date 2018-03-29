@@ -1,4 +1,4 @@
-package de.hsmuc.presistence;
+package de.edu;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -7,8 +7,6 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Component;
-
-import de.hsmuc.resources.domain.Book;
 
 @Component
 public class BookShelf {

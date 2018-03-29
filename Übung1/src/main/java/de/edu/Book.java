@@ -1,4 +1,4 @@
-package de.hsmuc.resources.domain;
+package de.edu;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
