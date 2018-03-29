@@ -25,7 +25,7 @@ public class BookstoreAPI extends ResourceConfig {
 		beanConfig.setSchemes(new String[] { "http" });
 		beanConfig.setHost("localhost:8080");
 		beanConfig.setBasePath("/api");
-		beanConfig.setResourcePackage("de.hsmuc.resources");
+		beanConfig.setResourcePackage("de.edu");
 		beanConfig.setScan(true);
 	}
 }
