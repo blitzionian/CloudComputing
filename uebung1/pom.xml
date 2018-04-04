@@ -6,12 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>de.hsmuc</groupId>
-		<artifactId>u1</artifactId>
+		<groupId>de.huettner.edu</groupId>
+		<artifactId>praktikum-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<groupId>de.huettner.edu</groupId>
 	<artifactId>uebung1</artifactId>
 	<name>uebung1</name>
 
