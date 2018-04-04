@@ -1,4 +1,4 @@
-package de.edu;
+package de.huettner.edu.uebung1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

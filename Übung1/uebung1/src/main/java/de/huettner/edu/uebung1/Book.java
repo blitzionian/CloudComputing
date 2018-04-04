@@ -1,4 +1,4 @@
-package de.edu;
+package de.huettner.edu.uebung1;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

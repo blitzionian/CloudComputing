@@ -1,4 +1,4 @@
-package de.edu;
+package de.huettner.edu.uebung1;
 
 import java.util.ArrayList;
 import java.util.Collection;
